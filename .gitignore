@@ -1,0 +1,9 @@
+# Terraform state files
+terraform.tfstate
+terraform.tfstate.backup
+
+# Terraform logs
+crash.log
+
+# Terraform plugin directory
+.terraform/
